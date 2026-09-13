@@ -46,6 +46,37 @@
 
 ###
 
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Meu Portfólio](https://meu-portif-lio-mateus-paulo.vercel.app/)
+
+Conheça mais sobre mim, minha trajetória e meus projetos.
+
+`HTML` `CSS` `JavaScript`
+
+[🌐 Acessar portfólio](https://meu-portif-lio-mateus-paulo.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ [Restaurante](https://projeto-restaurante-web-1-0.vercel.app/)
+
+Trabalho pensado para negócios de restaurantes, desenvolvido para apresentar produtos e serviços.
+
+`HTML` `JavaScript`
+
+[🌐 Acessar projeto](https://projeto-restaurante-web-1-0.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+###
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msprogra25/mateus-paulo-de-freitas-silva/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msprogra25/mateus-paulo-de-freitas-silva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
