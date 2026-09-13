@@ -46,6 +46,20 @@
 
 ###
 
+## 📊 Estatísticas e Métricas de Desenvolvimento
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-Paulo&theme=cobalt2&animation=rgb&duration=2.5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mateus-Paulo&theme=cobalt2&animation=rgb&duration=2.5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateus-Paulo&theme=cobalt2&animation=rgb&duration=2.5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mateus-Paulo&theme=cobalt2&animation=rgb&duration=2.5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mateus-Paulo&theme=cobalt2&animation=rgb&duration=2.5&utcOffset=1)
+
+###
+
 ## 🚀 Projetos em Destaque
 
 <table>
@@ -74,6 +88,7 @@ Trabalho pensado para negócios de restaurantes, desenvolvido para apresentar pr
 </td>
 </tr>
 </table>
+<br>
 
 ###
 
