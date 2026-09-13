@@ -34,6 +34,10 @@
 
 ###
 
+<p data-importer="text" align="left">Desenvolvedor Full-Stack focado em resolver problemas de negócio através de código limpo, arquitetura sólida e experiências de usuário memoráveis. Meu foco é entregar produtos que gerem impacto real — não apenas código que funciona, mas soluções que escalam.</p>
+
+###
+
 <p data-importer="text" align="left">🧠 Sobre mim</p>
 
 ###
