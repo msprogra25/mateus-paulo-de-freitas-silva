@@ -46,14 +46,10 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/msprogra25/msprogra25/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msprogra25/msprogra25/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msprogra25/msprogra25/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/msprogra25/msprogra25/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msprogra25/msprogra25/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msprogra25/msprogra25/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/msprogra25/msprogra25/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
 ###
